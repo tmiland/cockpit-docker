@@ -7,7 +7,7 @@ So you can manage your docker containers from Cockpit
 First off you need to install cockpit according to [Cockpit docs](https://cockpit-project.org/running.html)
 
 ### 2) Get the plugin
-Download the [Latest Release](https://github.com/mrevjd/cockpit-docker/releases/latest)
+Download the [Latest Release](https://github.com/tmiland/cockpit-docker/releases/latest)
 
 ### 3) Install
 Move or Copy the downloaded release to the cockpit directory. Eg: `/usr/share/cockpit`
@@ -24,7 +24,7 @@ tar xf cockpit-docker.tar.gz -C .
 ### 1) Get the plugin
 You can clone this repository by running 
 
-`git clone https://github.com/mrevjd/cockpit-docker` 
+`git clone https://github.com/tmiland/cockpit-docker` 
 
 ### 2) Install
 run the `./install` script
